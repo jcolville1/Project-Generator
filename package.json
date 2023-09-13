@@ -1,0 +1,1 @@
+{"devDependencies":{"jest":"^27.5.1","jest-extended":"^1.1.0"},"scripts":{"test":"jest","generate":"node ./generate.js","remove-project":"node ./remove-project.js"}}
